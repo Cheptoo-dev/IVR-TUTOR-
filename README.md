@@ -1,6 +1,6 @@
 # 🎓 IVR Tutor - Inclusive Education for All
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Africa's Talking](https://img.shields.io/badge/Powered%20by-Africa's%20Talking-blue.svg)](https://africastalking.com/)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Accessibility](https://img.shields.io/badge/accessibility-first-success.svg)]()
