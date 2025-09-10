@@ -66,6 +66,18 @@ Progress Tracking → SMS Notifications → Learning Analytics
 
 ---
 
+## 👥 Team
+
+This project is built by a passionate team dedicated to inclusive education:
+
+- **[Your Name](https://github.com/Cheptoo-dev)** - Lead Developer & Product Vision
+- **Vincent Kiplangat** - Co-creator and development partner
+
+*We're always open to more contributors who share our vision of accessible education!*
+
+---
+---
+
 ## 🛠️ Technical Architecture
 
 ### Core Technologies
@@ -248,6 +260,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## 🙏 Acknowledgments
 
+- **[Vincent Kiplangat](https://github.com/balvins435)** - Co-creator and development partner
 - **[Africa's Talking](https://africastalking.com/)** - For providing the powerful APIs that make this possible
 - **EdTech Hackathon Organizers** - For creating a platform to address educational inequality
 - **Accessibility Advocates** - For inspiring inclusive design practices
