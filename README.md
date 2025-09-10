@@ -70,12 +70,11 @@ Progress Tracking → SMS Notifications → Learning Analytics
 
 This project is built by a passionate team dedicated to inclusive education:
 
-- **[Your Name](https://github.com/Cheptoo-dev)** - Lead Developer & Product Vision
+- **[Cheptoo Faith](https://github.com/Cheptoo-dev)** - Lead Developer & Product Vision
 - **Vincent Kiplangat** - Co-creator and development partner
 
 *We're always open to more contributors who share our vision of accessible education!*
 
----
 ---
 
 ## 🛠️ Technical Architecture
