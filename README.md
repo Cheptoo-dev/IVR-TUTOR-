@@ -191,7 +191,7 @@ pytest tests/test_analytics.py -v
 
 ## 🌍 Roadmap
 
-### 🎯 Phase 1 (Hackathon) 
+### 🎯 Phase 1 
 - [x] Core IVR functionality
 - [x] SMS progress notifications
 - [x] Basic analytics dashboard
@@ -259,7 +259,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 <div align="center">
 
-**Built with ❤️ for inclusive education in Africa**
+**Built with ❤️ for inclusive education in Africa** during the Afrika's Talking Edtech Hackathon
 
 *"Education is the most powerful weapon which you can use to change the world."* - Nelson Mandela
 
