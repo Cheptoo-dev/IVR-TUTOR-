@@ -1,0 +1,31 @@
+ # Environment variables (NEVER commit these!)
+.env
+.env.local
+.env.production
+
+# Database files
+*.db
+ivr_tutor.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
